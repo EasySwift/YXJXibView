@@ -1,0 +1,2 @@
+# YXJXibView
+OC新建view勾选上xib文件即可自动关联，swift新建view已经不能勾选xib，但是又想用到xib，YXJXibView就能帮你搞定两秒钟搞定！
