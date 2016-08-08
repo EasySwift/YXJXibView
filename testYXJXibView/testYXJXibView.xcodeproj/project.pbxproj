@@ -19,7 +19,7 @@
 		DE62C05E1D2AC0080031B784 /* TestXibView1.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE62C05D1D2AC0080031B784 /* TestXibView1.swift */; };
 		DE62C0681D2AC22B0031B784 /* TestXibView3.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE62C0671D2AC22B0031B784 /* TestXibView3.swift */; };
 		DE62C06A1D2AC2340031B784 /* TestXibView3.xib in Resources */ = {isa = PBXBuildFile; fileRef = DE62C0691D2AC2340031B784 /* TestXibView3.xib */; };
-		DE62C06C1D2AC2F60031B784 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = DE62C06B1D2AC2F60031B784 /* demo.gif */; };
+		DE62C06C1D2AC2F60031B784 /* YXJXibView1.gif in Resources */ = {isa = PBXBuildFile; fileRef = DE62C06B1D2AC2F60031B784 /* YXJXibView1.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,7 +39,7 @@
 		DE62C05D1D2AC0080031B784 /* TestXibView1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestXibView1.swift; sourceTree = "<group>"; };
 		DE62C0671D2AC22B0031B784 /* TestXibView3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestXibView3.swift; sourceTree = "<group>"; };
 		DE62C0691D2AC2340031B784 /* TestXibView3.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TestXibView3.xib; sourceTree = "<group>"; };
-		DE62C06B1D2AC2F60031B784 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
+		DE62C06B1D2AC2F60031B784 /* YXJXibView1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = YXJXibView1.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +83,7 @@
 		DE62C03C1D2ABA130031B784 /* testYXJXibView */ = {
 			isa = PBXGroup;
 			children = (
-				DE62C06B1D2AC2F60031B784 /* demo.gif */,
+				DE62C06B1D2AC2F60031B784 /* YXJXibView1.gif */,
 				DE62C03D1D2ABA130031B784 /* AppDelegate.swift */,
 				DE62C03F1D2ABA130031B784 /* ViewController.swift */,
 				DE62C0411D2ABA130031B784 /* Main.storyboard */,
@@ -171,7 +171,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE62C0481D2ABA130031B784 /* LaunchScreen.storyboard in Resources */,
-				DE62C06C1D2AC2F60031B784 /* demo.gif in Resources */,
+				DE62C06C1D2AC2F60031B784 /* YXJXibView1.gif in Resources */,
 				DE62C0451D2ABA130031B784 /* Assets.xcassets in Resources */,
 				DE62C06A1D2AC2340031B784 /* TestXibView3.xib in Resources */,
 				DE62C05C1D2ABFFE0031B784 /* TestXibView1.xib in Resources */,
