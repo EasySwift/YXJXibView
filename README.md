@@ -12,7 +12,7 @@ OC新建view勾选上xib文件即可自动关联，swift新建view已经不能�
 * 及其强大的标签框架，不仅可以填充文字，任意视图都可以。
 
 ### ScreenShot
-![image](https://github.com/stubbornnessness/YXJXibView/blob/master/testYXJXibView/testYXJXibView/demo.gif)
+![image](http://120.27.93.73/files/myPublicProject/YXJXibView1.gif)
 
 ## System Requirements
 iOS 8.0 or above
