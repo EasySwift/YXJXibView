@@ -9,7 +9,7 @@
 import UIKit
 import YXJXibView
 
-class TextXibView2: YXJXibView {
+class TestXibView2: YXJXibView {
 
     /*
     // Only override drawRect: if you perform custom drawing.
@@ -18,5 +18,4 @@ class TextXibView2: YXJXibView {
         // Drawing code
     }
     */
-
 }

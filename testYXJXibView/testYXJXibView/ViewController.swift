@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import YXJXibView
 
 class ViewController: UIViewController {
 
@@ -16,7 +17,7 @@ class ViewController: UIViewController {
         // 方式一:在storyBoard中自动生成
 
         // 方式二:代码生成
-        let v2 = TextXibView2(frame: CGRect(x: 50, y: 300, width: 50, height: 50))
+        let v2 = TestXibView2(frame: CGRect(x: 50, y: 300, width: 50, height: 50))
         self.view.addSubview(v2)
 
         // 方式二:代码生成
